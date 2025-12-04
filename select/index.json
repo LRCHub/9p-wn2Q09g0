@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "亡霊の例",
+  "base_artist": "T.O.C.A",
+  "createdAt": "2025-12-04T15:39:22.388039Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "亡霊の例",
+      "artist": "T.O.C.A",
+      "has_synced": false,
+      "path": "select/pl_01_亡霊の例_T.O.C.A.txt"
+    }
+  ]
+}
